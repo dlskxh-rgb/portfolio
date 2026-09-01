@@ -16,13 +16,12 @@
   <div class="card">
     <h2>🛠 Tech Stack & Learning Path</h2>
     <p><strong>[What I can do]</strong></p>
-    <div class="badge-list">
-      <span class="badge">HTML5 (Structuring Web Pages)</span>
-      
-      <span class="badge">CSS3 (Styling & Design)</span>
-      
-      <span class="badge">GitHub Pages (Web Hosting)</span>
-    </div>
+    <div class="badge-list"
+  <div class="badge">HTML5 (Structur>ing Web Pages)</div>
+  <div class="badge">CSS3 (Styling & Design)</div>
+  <div class="badge">GitHub Pages (Web Hosting)</div>
+</div>
+
 
   <div class="card">
     <h2>🚀 My First Project</h2>
