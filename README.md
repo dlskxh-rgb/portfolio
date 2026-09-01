@@ -21,13 +21,6 @@
       <span class="badge">CSS3 (Styling & Design)</span>
       <span class="badge">GitHub Pages (Web Hosting)</span>
     </div>
-    
-    <p style="margin-top: 20px;"><strong>[What I am learning next]</strong></p>
-    <div class="badge-list">
-      <span class="badge learning">JavaScript Basics</span>
-      <span class="badge learning">Responsive Web Design</span>
-    </div>
-  </div>
 
   <div class="card">
     <h2>🚀 My First Project</h2>
