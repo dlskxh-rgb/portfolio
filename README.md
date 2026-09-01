@@ -18,7 +18,9 @@
     <p><strong>[What I can do]</strong></p>
     <div class="badge-list">
       <span class="badge">HTML5 (Structuring Web Pages)</span>
+      
       <span class="badge">CSS3 (Styling & Design)</span>
+      
       <span class="badge">GitHub Pages (Web Hosting)</span>
     </div>
 
